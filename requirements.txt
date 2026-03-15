@@ -1,0 +1,4 @@
+{
+  "name": "requirements.txt",
+  "content": "pandas>=1.3.0\nnumpy>=1.21.0\nmatplotlib>=3.4.2\nseaborn>=0.11.1\nplotly>=5.1.0\njupyter>=1.0.0"
+}
