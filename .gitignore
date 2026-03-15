@@ -1,0 +1,4 @@
+{
+  "name": ".gitignore",
+  "content": "__pycache__/\n*.pyc\n.ipynb_checkpoints/\n*.so\n.Python\nvenv/\nenv/\nENV/\n.vscode/\n.idea/\n*.ipynb_checkpoints/\n*.json\n*.csv\n*.xlsx\n*.xls\n/outputs/\n/images/\n.env"
+}
