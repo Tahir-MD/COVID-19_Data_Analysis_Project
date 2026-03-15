@@ -4,11 +4,6 @@
 
 This project is part of my **Data Science Internship at SoftGrowTech**. It involves comprehensive analysis of COVID-19 pandemic data to extract meaningful insights about the global impact of the virus. The analysis covers case trends, death rates, vaccination progress, and regional comparisons using real-time data.
 
-<div align="center">
-    <img src="https://via.placeholder.com/800x400/0a1929/ffffff?text=COVID-19+Data+Analysis+Visualization" alt="Project Banner" width="80%">
-    <p><i>Sample visualization of global COVID-19 trends</i></p>
-</div>
-
 ## 🎯 Objectives
 
 - 📊 Analyze global COVID-19 cases, deaths, and recovery trends
